@@ -1,0 +1,1 @@
+# dog-avatar-login-animation
